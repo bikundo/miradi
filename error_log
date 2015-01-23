@@ -1,0 +1,2 @@
+[21-Jan-2015 22:15:26 Africa/Addis_Ababa] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/yhtomitsey/public_html/project/app/controllers/domain/dashboard/DashboardController.php on line 254
+[21-Jan-2015 22:15:32 Africa/Addis_Ababa] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/yhtomitsey/public_html/project/app/controllers/domain/dashboard/DashboardController.php on line 254

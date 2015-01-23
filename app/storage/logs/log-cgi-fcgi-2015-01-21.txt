@@ -1,0 +1,2 @@
+[2015-01-21 22:13:07] log.ERROR: Something went Wrong in Email Class - sendUserActivationEmail():Address in mailbox given [] does not comply with RFC 2822, 3.6.2. [] []
+[2015-01-21 22:49:08] log.ERROR: Something went Wrong in Email Class - sendUserActivationEmail():Address in mailbox given [] does not comply with RFC 2822, 3.6.2. [] []
